@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/FLvgYFZLvcwPe3/poypLOWvsZLZBtKYFNTTkre1jnvVEHAldpB5asi6TPx9dhn6fwUk6G0LSY33QnwITuJ2PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samuel.bolsoni\\Desktop\\test\\testeonline\\src\\TestBackEndApi.Infrastructure.Services\\TestBackEndApi.Infrastructure.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samuel.bolsoni\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

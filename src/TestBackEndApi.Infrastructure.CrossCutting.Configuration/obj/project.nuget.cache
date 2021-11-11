@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "35xdco2uUJ/B4+5D12WgfEVJqM/5UPd3EPwrd+gV+dfP1n0HnM6cHsEEicAfGhLvZSkAzJBKLhobZafkofVNiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samuel.bolsoni\\Desktop\\test\\testeonline\\src\\TestBackEndApi.Infrastructure.CrossCutting.Configuration\\TestBackEndApi.Infrastructure.CrossCutting.Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samuel.bolsoni\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

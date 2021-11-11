@@ -1,0 +1,15 @@
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Domain.deps.json
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Domain.dll
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Domain.pdb
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.dll
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Services.dll
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Data.pdb
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\bin\Debug\netcoreapp3.1\TestBackEndApi.Infrastructure.Services.pdb
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.csproj.AssemblyReference.cache
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.AssemblyInfoInputs.cache
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.AssemblyInfo.cs
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.csproj.CopyComplete
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.dll
+C:\Users\samuel.bolsoni\Downloads\TesteBackEnd\src\TestBackEndApi.Domain\obj\Debug\netcoreapp3.1\TestBackEndApi.Domain.pdb
