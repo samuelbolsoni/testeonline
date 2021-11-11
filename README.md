@@ -1,6 +1,6 @@
 # testeonline
 
-1 - Abrir a solution da aplicação TesteBackEndApi dentro da pasta src. \n
+1 - Abrir a solution da aplicação TesteBackEndApi dentro da pasta src. <br />
 2 - Executar a aplicação pelo IIS Express. \n
 3 - Ao abrir a tela Swagger, executar o método Get (/api/cep) informando o Cep para obter o retorno da API. \n
 
